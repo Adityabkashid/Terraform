@@ -1,0 +1,12 @@
+** terraform.tfvars
+my_region = "us-east-1"
+
+access_key = "AKIAVWABJOSLAGKVHBVGhg4H"
+
+secret_key = "OqkMAWOmCno3bY3kcUQJffsirJ6yikbjbouRGRT+sDklTFzy"
+
+my_ami = "ami-0c614dee691cbbf37"
+
+vpc_id = "vpc-0ed3c429e5882f1e0"
+ins_type = t2.micro
+ 
