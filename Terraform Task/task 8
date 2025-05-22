@@ -1,0 +1,2 @@
+* terraform apply command
+terraform apply -var vpc_id="vpc-0ed3c429e5882f1e0" -var ins_type="t2.micro"
